@@ -1,1 +1,6 @@
 /test/unsloth_compiled_cache
+/test/outputs
+/unsloth_compiled_cache
+/wandb
+/__pycache__
+/outputs
