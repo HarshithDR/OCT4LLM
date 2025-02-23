@@ -17,3 +17,4 @@ export WANDB_API_KEY=<your_api_key>
 wandb login
 
 -----------------------------
+huggingface login cli
