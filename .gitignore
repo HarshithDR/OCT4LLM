@@ -6,3 +6,4 @@
 /outputs
 /test/wandb
 .env
+/test/.gradio
